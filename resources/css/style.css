@@ -76,6 +76,7 @@ body {
     margin: auto;
     background-color: black;
     width: 100%;
+    align-items: center;
   }
   
   /* Store Section */
@@ -93,6 +94,7 @@ body {
   
   .item img {
     height: 200px;
+    width: 300px;
     margin: 10px;
     display: block;
   }
@@ -126,7 +128,7 @@ body {
     padding: 10px;
     margin: 5px 20px;
     background-color: black;
-    flex-basis: 280px;
+    flex-basis: 300px;
     display: flex;
     flex-direction: column;
     justify-content: center;
